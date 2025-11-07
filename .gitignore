@@ -13,3 +13,4 @@ wheels/
 uv.lock
 pyproject.toml
 .python-version
+game_state.jsonl
